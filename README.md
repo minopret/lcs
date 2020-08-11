@@ -53,18 +53,13 @@ That request gets a response with the following content.
 
 ## Files
 
-`README.md`
-
-: This document.
-
-`app.py`
-
-: The server, implemented in the Python programming language.
-
-`lcs.sh`
-
-: The script that runs the server in Linux or macOS using Python 3.
-
-`src/test/script/test1.py`
-
-: An example in the Python programming language, making requests to the server and interpreting the resulting JSON data.
+<dl>
+    <dt><code>README.md</code></dt>
+    <dd>This document.</dd>
+    <dt><code>app.py</code></dt>
+    <dd>The server, implemented in the Python programming language.</dd>
+    <dt><code>lcs.sh</code></dt>
+    <dd>The script that runs the server in Linux or macOS using Python 3.</dd>
+    <dt><code>src/test/script/test1.py</code></dt>
+    <dd>An example in the Python programming language, making requests to the server and interpreting the resulting JSON data.</dd>
+</dl>
